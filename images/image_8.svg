@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="359px" height="232px" viewBox="0 0 359 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>2F6E90B2-C23A-4F11-82E4-468F59696404@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="95.1966228%" y1="36.0918713%" x2="6.22947117%" y2="60.415444%" id="linearGradient-1">
+            <stop stop-color="#FF7878" offset="0%"></stop>
+            <stop stop-color="#EC3939" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="327.56685" height="200" rx="12"></rect>
+        <filter x="-7.9%" y="-11.0%" width="115.9%" height="126.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.129411765   0 0 0 0 0.129411765   0 0 0 0 0.129411765  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Screen-designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.3" transform="translate(-1.000000, -1889.000000)">
+            <g id="Card-style1-Copy-2" transform="translate(17.000000, 1901.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M16,0 C25.2503018,45.3333333 62.9185058,72.9756098 129.004612,82.9268293 C228.133771,97.8536585 267.845606,165.94454 267.845606,200 C267.845606,222.70364 183.897071,237.70364 16,245 L-47.7403278,134.58149 L-29.0033598,-10.3523148 L16,0 Z" id="Path-2" fill="#000000" opacity="0.0905040893" mask="url(#mask-3)"></path>
+                <path d="M76,-40 C85.2503018,5.33333333 122.918506,32.9756098 189.004612,42.9268293 C288.133771,57.8536585 327.845606,125.94454 327.845606,160 C327.845606,182.70364 243.897071,197.70364 76,205 L-22.3576976,148 L-22.3576976,-27.6390786 L76,-40 Z" id="Path-2" fill="#000000" opacity="0.07" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
